@@ -1,2 +1,1 @@
-# sem3-lab7-github-demo
-My AI Native Engineering Foundation Lab Work.
+print("Connected and ready!")
